@@ -1,0 +1,8 @@
+baseURL = "https://higebobo.github.io/hugo-hestia-pure/"
+languageCode = "en-us"
+defaultContentLanguage = "ja"
+title = "Hugo Hestia Pure"
+theme = "hestia-pure"
+
+[permalinks]
+  post = "/:year/:month/:title/"
